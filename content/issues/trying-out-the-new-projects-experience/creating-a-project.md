@@ -1,5 +1,5 @@
 ---
-title: Creating a project (beta)
+#title: Creating a project (beta)
 intro: 'Learn how to make a project, populate it, and add custom fields.'
 allowTitleToDifferFromFilename: true
 miniTocMaxHeadingLevel: 3
